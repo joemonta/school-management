@@ -13,6 +13,6 @@ public class StudentMain {
     public static void main(String[] args) {
         Address address = new Address();
         System.out.println(address.getAddress());
-        System.out.println("In IntelliJ");
+        System.out.println("Repository");
     }
 }
