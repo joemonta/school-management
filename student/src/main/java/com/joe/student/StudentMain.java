@@ -15,7 +15,6 @@ public class StudentMain {
         System.out.println(address.getAddress());
         System.out.println("Repository");
         System.out.println("Repository 2");
-        System.out.println("Repo 3.... ");
-        System.out.println("Inteellliijjj ....");
+        System.out.println("InteellliJ");
     }
 }
