@@ -17,6 +17,6 @@ public class StudentMain {
         System.out.println("Repository 2");
         System.out.println("InteellliJ");
         System.out.println("Repository 3");
-        System.out.println("Repository 4");
+        System.out.println("IntelliJ 4");
     }
 }
